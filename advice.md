@@ -18,4 +18,5 @@
 ## External Resources
 
   * [Articles about Research and Phd Advice](https://github.com/smilli/research-advice)
+  * [Enhancing Postgraduate Environments](http://postgradenvironments.com/) - resources for planning a postgraduate career
 
