@@ -1,4 +1,4 @@
-# [Table of Contents](/ML-Brain-Resources)
+# [Table of Contents](/Phd-Resources)
 
 ## Meta-skills (e.g. Working Habits)
 
