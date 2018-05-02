@@ -10,5 +10,5 @@
 
   * Books: 
     1. How to be a Straight-A Student by Cal Newport
-    2. Book: Walking with Einstein (has memory techniques)
-  2. Website: [MIT: Study Skills](http://web.mit.edu/uaap/learning/index.html)
+    2. Walking with Einstein (has memory techniques)
+  * Website: [MIT: Study Skills](http://web.mit.edu/uaap/learning/index.html)
