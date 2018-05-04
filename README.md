@@ -1,6 +1,7 @@
 # Table of Contents
 
   1. [Career/Research Advice](/Phd-Resources/advice)
+  1. [Organizing your research](/Phd-Resources/organization)
   1. [Writing about your research](/Phd-Resources/writing)
   2. [Reading other research](/Phd-Resources/reading)
   3. [Funding](/Phd-Resources/funding)
