@@ -6,3 +6,6 @@
 ## Reference Managers
   * [Paperpile](https://paperpile.com/) - web-based - I use
   * [Papers3](https://www.readcube.com/papers/mac/) - primarily for mac, though cross-platform - I use
+
+<!-- ##  -->
+ <!-- * [github for project which automatically creates cv & website for](https://github.com/bamos/cv) -->

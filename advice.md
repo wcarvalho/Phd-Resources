@@ -8,6 +8,7 @@
   * [Berkeley: How to be a good researcher](https://drive.google.com/file/d/0Bzis5MXW83vCVUpIMDRVTm5CcHc/view )
   * [Chemistry World: How to become a professor](https://www.chemistryworld.com/careers/how-to-become-a-professor/3008605.article)
   * [Aweomse-Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology
+  * Brown Professor Michael Littman's [Requests when being asked for letters of reference](http://cs.brown.edu/~mlittman/etc/review-guidelines) - these are useful things to provide your reference letter (in my opinion)
 
 ## Computational Research
   
