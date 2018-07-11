@@ -1,15 +1,25 @@
 # [Table of Contents](/Phd-Resources)
 
+
 ## Writing/Publishing
 
 ### Publishing science
-
+  * [How to write like scientist](http://www.sciencemag.org/careers/2012/03/how-write-scientist)
+  * [Teaching Graduate Students How to Write Clearly](http://www.psychologicalscience.org/observer/teaching-graduate-students-how-to-write-clearly#.WH2lyLYrLdQ)
+  * [Toronto, writing in sciences](http://www.writing.utoronto.ca/advice/specific-types-of-writing/296-writing-in-the-sciences)
   * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-  * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
-  * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
   * [How to write paragraphs in research texts (articles, books and PhDs)](http://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/)
 
+#### Help Writing
+  * [12 Ways To Overcome Writer’s Block For PhD Students](http://www.nextscientist.com/writers-block-phd-students/)
+  * [How Writing A Science Blog Saved My PhD - Next Scientist](http://www.nextscientist.com/writing-science-blog-saved-phd/)
+
+#### Doing Science
+  * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
+  * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
+
+#### General Writing
   * Books:
     * The Elements of Style by William Strunk Jr.
 
@@ -28,3 +38,4 @@
 
   * [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization) by Claus Wilke, Professor at The University of Texas at Austin
   * **[The Visual Display Of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte - bible for displaying quantitative information - RECOMMENDED**
+  * [Lectures on Data Visualization](http://mkweb.bcgsc.ca/essentials.of.data.visualization/videos.mhtml)
