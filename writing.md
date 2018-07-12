@@ -30,9 +30,11 @@
     * [Jupyterlab](https://github.com/jupyterlab/jupyterlab) - similar to colaboratory
     * [CodaLab](https://worksheets.codalab.org/) - A collaborative platform for reproducible research. Papers from conferences (e.g. ICLR, NIPS, ACL) are published using this platform.
   * publishing books:
-    * [Open Review Toolkid](http://www.openreviewtoolkit.org/) - let's you turn your manuscript into a website so everyone can read and annotate your manuscript - sounds amazing
+    * [Open Review Toolkit](http://www.openreviewtoolkit.org/) - let's you turn your manuscript into a website so everyone can read and annotate your manuscript - sounds amazing
+    * [Bookdown](https://bookdown.org/home/) - Write HTML, PDF, ePub, and Kindle books with R & Markdown. (I think it also support python)
   * publishing websites:
     * [Data-Driven Documents](https://d3js.org/)
+    * [Shiny](http://shiny.rstudio.com/) - Use R to easily create interactive websites
 
 ### Communicating (Graphing) Quantitative Information
 

@@ -7,11 +7,11 @@
   * <a href="http://www.cell.com/neuron/abstract/S0896-6273(13)00907-0">Neuron: How to Pick a Graduate Advisor</a>
   * [Berkeley: How to be a good researcher](https://drive.google.com/file/d/0Bzis5MXW83vCVUpIMDRVTm5CcHc/view )
   * [Chemistry World: How to become a professor](https://www.chemistryworld.com/careers/how-to-become-a-professor/3008605.article)
-  * [Aweomse-Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology
+  * [Awesome-Diversity](https://github.com/folkswhocode/awesome-diversity) - A curated list of amazingly awesome articles, websites and resources about diversity in technology
   * Brown Professor Michael Littman's [Requests when being asked for letters of reference](http://cs.brown.edu/~mlittman/etc/review-guidelines) - these are useful things to provide your reference letter (in my opinion)
   * [How to be a successful PhD student in machine learning](https://medium.com/@krzysztofgeras/a-personal-advice-on-how-to-be-a-successful-phd-student-in-machine-learning-279284e283c8) - Assistant Professor @ NYU
   * [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
-
+  * [Random Ponderings: How to Write an Academic Teaching Statement](http://yyue.blogspot.com/2016/12/how-to-write-academic-teaching-statement.html)
 
 ## Computational Research
   
