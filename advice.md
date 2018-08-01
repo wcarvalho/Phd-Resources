@@ -12,6 +12,8 @@
   * [How to be a successful PhD student in machine learning](https://medium.com/@krzysztofgeras/a-personal-advice-on-how-to-be-a-successful-phd-student-in-machine-learning-279284e283c8) - Assistant Professor @ NYU
   * [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
   * [Random Ponderings: How to Write an Academic Teaching Statement](http://yyue.blogspot.com/2016/12/how-to-write-academic-teaching-statement.html)
+  * [Richard Hamming - You and Your Research](http://roseyu.com/prospective.html)
+  * [Fei-Fei Li - De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
 ## Computational Research
   

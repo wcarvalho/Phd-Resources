@@ -14,6 +14,7 @@
 #### Help Writing
   * [12 Ways To Overcome Writer’s Block For PhD Students](http://www.nextscientist.com/writers-block-phd-students/)
   * [How Writing A Science Blog Saved My PhD - Next Scientist](http://www.nextscientist.com/writing-science-blog-saved-phd/)
+  * [Academic Phrasebank – Introducing Work](http://www.phrasebank.manchester.ac.uk/introducing-work/) - phrases for introducing your work
 
 #### Doing Science
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
@@ -41,3 +42,5 @@
   * [Fundamentals of Data Visualization](http://serialmentor.com/blog/2018/1/23/fundamentals-of-data-visualization) by Claus Wilke, Professor at The University of Texas at Austin
   * **[The Visual Display Of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte - bible for displaying quantitative information - RECOMMENDED**
   * [Lectures on Data Visualization](http://mkweb.bcgsc.ca/essentials.of.data.visualization/videos.mhtml)
+  * [GG Animate](https://github.com/thomasp85/gganimate) - Tool for plots that allow animation
+
