@@ -15,10 +15,10 @@
 * [NDSEG](https://ndseg.asee.org/) (Due December 12)
 
 
-
 ### Canonical Tech Fellowships
 * Facebook Fellowship
 * [Facebook Emerging Scholars Fellowship](https://research.fb.com/programs/emerging-scholars/) (minority)
+* [Ada Lovelace Fellowship - Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) - 42,000 x 3 (minority)
 * Google Fellowship
 * IBM Fellowship
 * Microsoft Fellowship

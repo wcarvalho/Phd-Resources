@@ -10,6 +10,7 @@
   * [Writing tips for peer-reviewed journal articles](http://shadow.eas.gatech.edu/~jean/paleo/Writing_tips.pdf?utm_content=buffer2b17c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Nature: How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4?error=cookies_not_supported&code=397df951-0abf-4ae4-800c-3b050f5141a4)
   * [How to write paragraphs in research texts (articles, books and PhDs)](http://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/)
+  * [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 
 #### Help Writing
   * [12 Ways To Overcome Writer’s Block For PhD Students](http://www.nextscientist.com/writers-block-phd-students/)
@@ -20,12 +21,14 @@
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
 
+#### Writing For IMpact
+  * ["Context matters": a framework to help connect knowledge with policy in government institutions](http://blogs.lse.ac.uk/impactofsocialsciences/2017/12/19/context-matters-a-framework-to-help-connect-knowledge-with-policy-in-government-institutions/) - how to impact public policy with your writing
+
 #### General Writing
   * Books:
     * The Elements of Style by William Strunk Jr.
 
 ### Publishing **interactive** science
-  
   * publishing papers:
     * [Colaboratory](https://colab.research.google.com/) - Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud with free GPUs.
     * [Jupyterlab](https://github.com/jupyterlab/jupyterlab) - similar to colaboratory
