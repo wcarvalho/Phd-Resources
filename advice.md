@@ -14,6 +14,7 @@
   * [Random Ponderings: How to Write an Academic Teaching Statement](http://yyue.blogspot.com/2016/12/how-to-write-academic-teaching-statement.html)
   * [Richard Hamming - You and Your Research](http://roseyu.com/prospective.html)
   * [Fei-Fei Li - De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
+  * [Ph.D. Thesis Research: Where do I Start?](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
 
 ## Computational Research
   
