@@ -21,7 +21,7 @@
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
   * [Publishing Transparent and Rigorous Scientific Research](https://osf.io/asxcb/)
 
-#### Writing For IMpact
+#### Writing For Impact
   * ["Context matters": a framework to help connect knowledge with policy in government institutions](http://blogs.lse.ac.uk/impactofsocialsciences/2017/12/19/context-matters-a-framework-to-help-connect-knowledge-with-policy-in-government-institutions/) - how to impact public policy with your writing
 
 #### General Writing
