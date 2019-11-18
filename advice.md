@@ -21,6 +21,8 @@
   * Online Courses:
     * [Using Python for Reseach](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) - Harvard - EdX 
     * [Calling Bullshit: Data Reasoning in a Digital World](http://callingbullshit.org/syllabus.html) - Syllabus (w/ links to readings) for course at Univ of Washington
+    * [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
+    * [Open Science MOOC](https://opensciencemooc.eu/) - Online course on doing research
 
 
 ## External Resources
