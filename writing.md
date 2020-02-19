@@ -12,6 +12,7 @@
   * [How to write paragraphs in research texts (articles, books and PhDs)](http://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/)
   * [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
   * [Reinventing Posters](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over)
+  * [The Science of Scientific Writing](http://www-stat.wharton.upenn.edu/~buja/sci.pdf) - American Scientist 1990
 
 #### Help Writing
   * [12 Ways To Overcome Writer’s Block For PhD Students](http://www.nextscientist.com/writers-block-phd-students/)
