@@ -2,7 +2,6 @@
 
 ## Career Advice
 
-
   * [Nature: Convert your weaknesses into assets](https://www.nature.com/articles/d41586-018-04162-9) - career advice after/during postdoc
   * <a href="http://www.cell.com/neuron/abstract/S0896-6273(13)00907-0">Neuron: How to Pick a Graduate Advisor</a>
   * [Chemistry World: How to become a professor](https://www.chemistryworld.com/careers/how-to-become-a-professor/3008605.article)
