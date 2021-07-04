@@ -19,6 +19,7 @@
   * [12 Ways To Overcome Writer’s Block For PhD Students](http://www.nextscientist.com/writers-block-phd-students/)
   * [How Writing A Science Blog Saved My PhD - Next Scientist](http://www.nextscientist.com/writing-science-blog-saved-phd/)
   * [Academic Phrasebank – Introducing Work](http://www.phrasebank.manchester.ac.uk/introducing-work/) - phrases for introducing your work
+  * [The Sense of Style](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf) - clean academic prose explained by Steven Pinker
 
 #### Doing Science
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
@@ -50,3 +51,7 @@
   * [Lectures on Data Visualization](http://mkweb.bcgsc.ca/essentials.of.data.visualization/videos.mhtml)
   * [GG Animate](https://github.com/thomasp85/gganimate) - Tool for plots that allow animation
 
+
+
+### Writing papers
+* [Writing discussions](https://twitter.com/WriteThatPhD/status/1396359012183064576?s=09)
