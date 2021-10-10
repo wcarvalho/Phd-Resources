@@ -1,7 +1,8 @@
 # [Table of Contents](/Phd-Resources)
 
-
-## Writing/Publishing
+### Broad Communication
+1. [Writing science in plain English](https://www.amazon.com/Writing-Science-English-Chicago-Publishing/dp/022602637X)
+2. [How to Write a Thesis, According to Umberto Eco](https://thereader.mitpress.mit.edu/umberto-eco-how-to-write-a-thesis/)
 
 ### Publishing science
   * [How to write like scientist](http://www.sciencemag.org/careers/2012/03/how-write-scientist)
