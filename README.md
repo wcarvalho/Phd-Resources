@@ -1,11 +1,11 @@
 # Table of Contents
 
 Research Advice:
-  1. [Advice on **Doing** Research](/Phd-Resources/doing_research)
-  1. [Writing about your research](/Phd-Resources/writing)
-  2. [Reading other research](/Phd-Resources/reading)
-  2. [Presenting Your Research](/Phd-Resources/presenting)
-  1. [Organizing research/papers](/Phd-Resources/organization)
+  1. [**Doing** Research](/Phd-Resources/doing_research)
+  1. [Writing](/Phd-Resources/writing)
+  2. [Reading](/Phd-Resources/reading)
+  2. [Presenting](/Phd-Resources/presenting)
+  1. [Organizing](/Phd-Resources/organization)
 
 Programs:
   1. [Career Advancement Programs](/Phd-Resources/programs)

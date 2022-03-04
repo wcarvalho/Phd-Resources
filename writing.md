@@ -21,6 +21,8 @@
   * [How Writing A Science Blog Saved My PhD - Next Scientist](http://www.nextscientist.com/writing-science-blog-saved-phd/)
   * [Academic Phrasebank – Introducing Work](http://www.phrasebank.manchester.ac.uk/introducing-work/) - phrases for introducing your work
   * [The Sense of Style](http://xidian-usa.org/wp-content/uploads/2019/07/The-Sense-of-Style.pdf) - clean academic prose explained by Steven Pinker
+  * [5 common mistakes](https://www.annaclemens.com/blog/the-five-most-common-mistakes-when-writing-a-scientific-paper?utm_content=buffer1b409&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&s=09)
+  * [Doing internet research for writing during college](https://www.internetadvisor.com/student-college-research-guide) - Thanks Rose Williams!
 
 #### Doing Science
   * [How To Write Successful Science Proposals](/ML-Brain-Resources/files/how_to_write_successful_science_proposals.pdf)
