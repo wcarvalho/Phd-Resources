@@ -27,3 +27,10 @@
 
   * [Articles about Research and Phd Advice](https://github.com/smilli/research-advice)
   * [Enhancing Postgraduate Environments](http://postgradenvironments.com/) - resources for planning a postgraduate career
+
+
+## Suggested Additions
+
+  * [Essential Skills for Your Career Development
+](https://www.futurelearn.com/courses/essential-skills-for-your-career-development)
+  * [Essential Skills for Your Career Development Course](https://www.futurelearn.com/courses/essential-skills-for-your-career-development) (suggested by company, FutureLearn)
