@@ -13,6 +13,7 @@
   * [Advice on giving talks](https://web.eecs.umich.edu/~cscott/talk_advice.htm) - Clay Scott, ML Professor at U Michigan
   * [Materials for academic job hunting 1.0](https://medium.com/@shuruiz/materials-for-academic-job-hunting-1-0-44dafd52b6bd)
   * [CS faculty job search: a social experiment](https://medium.com/@SuprShastri/cs-faculty-job-search-a-social-experiment-16f9b4273ebc?s=09)
+  * [National Center for Faculty Development & Diversity](https://www.facultydiversity.org/)
 
 ## Computational Research
   
